@@ -21,7 +21,7 @@ export default function About() {
       {/* section heading */}
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After spending 10 years in{' '}
+        After spending 10 years in New York City{' '}
         <span className="font-medium">Marketing</span>, I decided to pursue my
         passion for programming. I enrolled in a coding bootcamp and learned{' '}
         <span className="font-medium">full-stack web development</span>.{' '}
